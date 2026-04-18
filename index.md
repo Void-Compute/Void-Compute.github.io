@@ -1,4 +1,9 @@
-````markdown
+---
+layout: default
+title: Home
+---
+
+
 <div align="center">
   
 # 👻 GHOST
@@ -56,7 +61,7 @@ git clone [https://github.com/Void-Compute/AMD-Ghost-Enviroment.git](https://git
 # Initialize the translation layer
 cd AMD-Ghost-Enviroment
 chmod +x bin/ghost
-
+```
 To initialize the system:
 
  1. Open your File Explorer.
@@ -95,7 +100,6 @@ GHOST is a community-driven ecosystem. If you are running into scale-specific en
 
 \</div\>
 
-```
 
 -----
 
