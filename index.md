@@ -74,7 +74,7 @@ We believe in building in public.
 
   * **v2.0.1 (Latest):** Massive architecture update. Implemented hardware-state failsafes to resolve venv auto-activation bugs. Hardened the logic gates for RDNA 4 anticipation.
   * **v1.5.0:** Fixed GFX Version spoofing for RX 9000 series.
-  * **v1.0.0:** Initial Windows translation layer launched. SDMA bottleneck resolved.
+  * **v1.0.0:** Initial Linux translation layer launched. SDMA bottleneck resolved.
 
 -----
 
