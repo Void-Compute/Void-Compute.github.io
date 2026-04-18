@@ -5,7 +5,7 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Issues](https://img.shields.io/badge/Issues-0_Open-success)](#)
-[![Clones](https://img.shields.io/badge/Clones-400%2B-orange)](#)
+[![Clones](https://img.shields.io/badge/Clones-350%2B-orange)](#)
 [![Status](https://img.shields.io/badge/Status-Production_Ready-brightgreen)](#)
 
 *Breaking hardware monopolies through low-level systems architecture.*
