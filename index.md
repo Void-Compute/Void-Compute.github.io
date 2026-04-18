@@ -25,7 +25,7 @@ In short: **Write once. Run anywhere. Let the logic handle the translation.**
 * **VRAM Leak Prevention:** Custom hardware-state checks bypass standard async race conditions.
 * **Decoupled Architecture:** Hardware tracks (AMD, Intel, Apple) are strictly isolated to prevent dependency hell.
 * **Waiting Room TUI:** While the AI's are loading you can either play music or play a fully working version of DOOM ASCII in your Terminal
----
+
 
 ##  Architecture & Roadmap
 GHOST is built on a modular, microservice-inspired philosophy. Our primary focus is platform hardening before horizontal expansion.
