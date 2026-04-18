@@ -93,12 +93,11 @@ GHOST is a community-driven ecosystem. If you are running into scale-specific en
 
 -----
 
-\<div align="center"\>
+
 
 *Built with precision in Germany.* <br>
 **[Explore the GHOST Ecosystem on GitHub](https://github.com/Void-Compute)**
 
-\</div\>
 
 
 -----
