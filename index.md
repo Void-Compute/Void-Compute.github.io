@@ -1,7 +1,4 @@
----
-layout: default
-title: Home
----
+
 
 
 <div align="center">
