@@ -35,6 +35,7 @@ GHOST is built on a modular, microservice-inspired philosophy. Our primary focus
 - [x] ROCm / HIP execution logic
 - [x] Multi-node VRAM routing
 - [x] RX 7000 / 9000 Series Mapping 
+- [ ] Multi-GPU Orchestration: Automated hardware detection and device-specific targeting (Selecting RX 7000 vs. iGPU).
 
 ### Phase 2: Heterogeneous Expansion (R&D)
 - [ ] **Intel Track:** oneAPI / Level Zero integration (SYCL).
