@@ -1,7 +1,4 @@
 
-
-
-<div align="center">
   
 # 👻 GHOST
 **GPU Hardware Operating Software Translator**
@@ -15,7 +12,6 @@
 
 [Documentation](#) • [Roadmap](#-architecture--roadmap) • [Devlog](#-developer-log) • [Community Forum](#-community--support)
 
-</div>
 
 ---
 
