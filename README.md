@@ -23,11 +23,10 @@ GHOST is a hardware-agnostic translation layer designed to intercept and route c
 In short: **Write once. Run anywhere. Let the logic handle the translation.**
 
 ## ✨ Core Features
-* **Zero-Hallucination Logic:** 100% human-verified failsafe nodes. Built for stability, not probability.
+* **CUDA on AMD:** Allows AMD GPU's to run CUDA only software via ZLUDA
 * **VRAM Leak Prevention:** Custom hardware-state checks bypass standard async race conditions.
 * **Decoupled Architecture:** Hardware tracks (AMD, Intel, Apple) are strictly isolated to prevent dependency hell.
-* **Bare-Metal Speed:** Operates at the kernel/API level, communicating directly with the GPU's SDMA controller.
-
+* **Waiting Room TUI:** While the AI's are loading you can either play music or play a fully working version of DOOM ASCII in your Terminal
 ---
 
 ##  Architecture & Roadmap
@@ -66,7 +65,7 @@ To initialize the system:
 The environment will automatically resolve the correct directory, activate your Python venv, and apply all AMD/NVIDIA spoofing masks.
 
 On your first run, the First-Startup Wizard will ask you which AI tool you are using and automatically download the ZLUDA translation engine.
-````
+
 
 -----
 
